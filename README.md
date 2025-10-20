@@ -1,10 +1,7 @@
-# Introducing myself: Zhen-Jelte 🐳
+# Introducing myself in short 🐳
 
 ### 🎓 Officially Studying Software Development
 > Currently pursuing a MBO 4 in Software Development (comparable to US post-secondary vocational education).
-
-### 🪸 Aquarist & Hobbyist in Graphic/Video Design
-> I like experimenting with graphic and video design, especially on small projects inspired by my passion for marine life.
 
 ---
 
