@@ -1,6 +1,3 @@
-# Introducing myself in short 🐳
-
-### 🎓 Officially Studying Software Development
 > Currently pursuing a MBO 4 in Software Development (comparable to US post-secondary vocational education).
 
 ---
@@ -17,10 +14,5 @@
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
 </p>
 
----
-
-### 🌊 Checkout my connected Github social profiles or website
-> <p> https://zhenjelte.com (Not online yet) <p/>
-  
 ---
 
